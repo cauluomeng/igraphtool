@@ -4,9 +4,9 @@ Network analysis tool (wrapper for python-igraph)
 
 PACKAGES 
 
-python v2.7
-igraph
-matplotlib
+python v2.7,
+igraph,
+matplotlib,
 
 --------------------------------
 
