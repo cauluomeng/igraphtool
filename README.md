@@ -13,10 +13,12 @@ matplotlib
 Installation
 
 FOR DEBIAN USING APT
+
 sudo apt-get install python-igraph
 sudo apt-get install python-matplotlib
 
 USING PIP
+
 pip install python-igraph
 pip install  matplotlib
 
