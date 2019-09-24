@@ -26,6 +26,8 @@ pip install python-igraph
 
 pip install  matplotlib
 
+pip install cairocffi
+
 ---------------------------------
 
 USAGE
